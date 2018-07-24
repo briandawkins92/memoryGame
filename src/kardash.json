@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "image": "images/CaitlynJenner.jpg",
+      "family": "Jenner"
+    },
+    {
+      "id": 2,
+      "image": "images/KanyeWest.jpg",
+      "family": "West"
+    },
+    {
+      "id": 3,
+      "image": "images/KardashianFamily.jpg",
+      "family": "Kardashian"
+    },
+    {
+      "id": 4,
+      "image": "images/KendallJenner.jpg",
+      "family": "Jenner"
+    },
+    {
+      "id": 5,
+      "image": "images/KhloeKardashian.jpg",
+      "family": "Kardashian"
+    },
+    {
+      "id": 6,
+      "image": "images/KimKardashian.jpg",
+      "family": "West"
+    },
+    {
+      "id": 7,
+      "image": "images/KourtneyKardashian.jpg",
+      "family": "Kardashian"
+    },
+    {
+      "id": 8,
+      "image": "images/KrisJenner.jpg",
+      "family": "Jenner"
+    },
+    {
+      "id": 9,
+      "image": "images/KylieJenner.jpg",
+      "family": "Jenner"
+    },
+    {
+      "id": 10,
+      "image": "images/NorthWest.png",
+      "family": "West"
+    },
+    {
+      "id": 11,
+      "image": "images/RobKardashian.jpg",
+      "family": "Kardashian"
+    },
+    {
+      "id": 12,
+      "image": "images/ScottDisick.jpg",
+      "family": "Disick"
+    }
+  ]

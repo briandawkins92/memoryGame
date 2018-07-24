@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/briandawkins92/memoryGame/issues"
   },
-  "homepage": "https://github.com/briandawkins92/memoryGame#readme"
+  "homepage": "https://github.com/briandawkins92/memoryGame#readme",
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  }
 }
