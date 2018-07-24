@@ -1,0 +1,20 @@
+{
+  "name": "memoryGame",
+  "version": "1.0.0",
+  "description": "memory game react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briandawkins92/memoryGame.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/briandawkins92/memoryGame/issues"
+  },
+  "homepage": "https://github.com/briandawkins92/memoryGame#readme"
+}
